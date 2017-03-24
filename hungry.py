@@ -1,4 +1,4 @@
-answer = input("Are you hungry?")
+answer = input("Are you hungry? \n\t>> ")
 if answer == "yes" or answer == "y":
     print("Eat something!")
 else:
