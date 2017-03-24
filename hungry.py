@@ -4,5 +4,4 @@ if answer == "yes" or answer == "y":
 else:
     print("Really?")
     print("This is stable version")
-    some errors are made
-    ss
+
