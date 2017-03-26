@@ -5,4 +5,4 @@ if answer == "yes" or answer == "y":
 else:
     print("Really?")
     print("This is stable version")
-
+print("Be away from sugar, it is a white monster!!")
